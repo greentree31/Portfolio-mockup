@@ -6,9 +6,6 @@ https://greentree31.github.io/portfolio-mockup/
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The motivation for this project was to provide a portfolio for employment opportunities. 
+This will help potential employers see what my past work and past projects were. 
+I still need to update this portfolio. This is just a mockup and just a beginning to what projects I can create and add to this portfolio.
