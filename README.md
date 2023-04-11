@@ -1,6 +1,7 @@
 # <Portfolio Mockup>
 
-<screenshot of the deployed app>
+![A picture of the portfolio website.](./assets/images/portfolio-mockup.jpg)
+
 
 https://greentree31.github.io/portfolio-mockup/
 
