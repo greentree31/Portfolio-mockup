@@ -89,6 +89,12 @@ img {
     background-position: center;
 }  
 
+section img {
+    width: 200px;
+}
+section p {
+    
+}
 @media screen and (max-width: 992px) {
     article.card {
         flex: 1 1 50%;
